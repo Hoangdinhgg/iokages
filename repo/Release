@@ -1,0 +1,35 @@
+Architectures: iphoneos-arm64 iphoneos-arm
+Codename: ios
+Components: main
+Date: Mon, 09 Mar 2026 05:29:21 +0000
+Label: Iokages Repo
+Origin: Iokages
+Suite: stable
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 Packages.bz2
+ ff7749895d600c2793268ac6730dcadf               29 Packages.gz
+ 8dc5aea5b03dff8595f096f9e368e888               32 Packages.xz
+ 5d80401e01d33084c65e94f93351e94c               13 Packages.zst
+ bb286fca1de41cfdc5c1e5338ab57aff              162 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 Packages.bz2
+ 3588a0c74ee88069ce99d4c357482279e293a8ad               29 Packages.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 Packages.xz
+ fb2e51cbd24e286dd066bd419d77cd772967e384               13 Packages.zst
+ d9e793eb427d772c511108186d17ac20ee457c7a              162 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 Packages.bz2
+ 2e57a471613e295fd17198f41071c6d44f78653e49c872777421ba40fddbf286               29 Packages.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 Packages.xz
+ f96deff1816083fdff8bc3e46c3fe6ca46a6bb49f4d5a00627616c13237a512c               13 Packages.zst
+ a2244f059da7ba029a85d813ebbf032f504bdcc3e10a9a8d7dbc01bc31e77a84              162 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 6de201dfed1d45412509c65deb34690dc2d09c6aafccfe491fd2f440f92842b9c755b61dc7bcdd4cc0c9f18cf46c2b3a1241e99c4c2a33fff5555e7b2f0b6348               14 Packages.bz2
+ d5c3a4d1454ab8953453ab6ee6a1906893a7da2f4b75353ec25bf63300a316de48d74415110a4d4890754d3000daaf8c294f92913e2656010086c40d01349637               29 Packages.gz
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 Packages.xz
+ 654b3bc259db923bca2fb5ac8d8c2aa5ceddf594cce152d2a467850ae092317206e3bea307c8528e05442811f5ef8c4ccb9daa4da2a56ddc7f436c6ee1aee7d0               13 Packages.zst
+ c295a7fd5d1c08ebe4de83b670979b63eedfdcc16415fcbff6c8a35daf1edc6a3508b93efe17e1e621a1975b8f77035d97bd4799721a019ebc34a3a95c47253d              162 Release
